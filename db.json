@@ -1,16 +1,72 @@
 {
-  "posts":[
+  "stock": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
     }
   ],
-  "comments" : [
+  "products": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "title": "Rapid Firecannon",
+      "description": "Critical Strike Chance, Attack Speed and Bonus Range.",
+      "price": 2600,
+      "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/48/Rapid_Firecannon_item_HD.png/revision/latest?cb=20180326192026"
+    },
+    {
+      "id": 2,
+      "title": "Ravenous Hydra",
+      "description": "Attack Damage, Life Steal and AOE Damage.",
+      "price": 3500,
+      "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/90/Ravenous_Hydra_item_HD.png/revision/latest?cb=20180325162017"
+    },
+    {
+      "id": 3,
+      "title": "Phantom Dancer",
+      "description": "Critical Strike Chance, Attack Speed e Lifesaver Shield.",
+      "price": 2600,
+      "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5e/Phantom_Dancer_item_HD.png/revision/latest?cb=20180326192000"
+    },
+    {
+      "id": 4,
+      "title": "Death's Dance",
+      "description": "Attack Damage, Life Steal and Damage suffered converted to bleeding..",
+      "price": 3600,
+      "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/74/Death%27s_Dance_item_HD.png/revision/latest?cb=20180325192111"
+    },
+    {
+      "id": 5,
+      "title": "Mortal Reminder",
+      "description": "Attack Damage, Armor Penetration and Grievous Wounds.",
+      "price": 2800,
+      "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f3/Mortal_Reminder_item_HD.png/revision/latest?cb=20180325205317"
+    },
+    {
+      "id": 6,
+      "title": "Morellonomicon",
+      "description": "Abillity Power, Magic Penetration and Grievous Wounds.",
+      "price": 3000,
+      "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1e/Pox_Arcana_item_HD.png/revision/latest?cb=20180325161821"
     }
   ]
 }
